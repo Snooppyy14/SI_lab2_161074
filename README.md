@@ -5,10 +5,6 @@
 
 ### Група на код : <br>
 Поправка на домашно број 2 <br>
-### CFG:<br>
-![CFG image](https://github.com/Snooppyy14/SI_lab2_161074/blob/master/cfg%20image.png)
-
-<br>
 ### Цикломатска комплексност: <br>
 E - N + 2xP <br>
 Е - бр. на ребра , N - бр. на јазлиm, P - предикатни јазли <br>
@@ -20,6 +16,11 @@ E - N + 2xP <br>
 3. 1->3->4->6->10<br>
 4. 1->3->4->6->7.1->7.2->8->7.3->7.2->8->9<br>
 5. 1->3->4->6->7.1->7.2->8->9<br>
+### CFG:<br>
+![CFG image](https://github.com/Snooppyy14/SI_lab2_161074/blob/master/cfg%20image.png)
+
+<br>
+
 
 
 
