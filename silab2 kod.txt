@@ -1,0 +1,18 @@
+public class PrimeExample {
+    static boolean checkPrime(int n) {
+    1.    if (n < 0) {
+      2.      throw new RuntimeException("Number should not be negative");
+        }
+       3.else int m = n / 2;
+       4. if (n == 0 || n == 1) {
+            5.return false;
+        }6. else {
+            for (7.1-int i = 2;7.2-i <= m; 7.3-i++) {
+             8.   if (n % i == 0) {
+             9.       return true;
+                }
+            }
+           10. return false;
+        }
+    }
+}
